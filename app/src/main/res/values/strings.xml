@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialeg</string>
+    <string name="dialog_hello">Hello</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">ok</string>
+    <string name="order_confirmation">order confirmation</string>
+    <string name="dialeg">Dialeg</string>
+</resources>
